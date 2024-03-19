@@ -21,7 +21,7 @@
   hobbies: ["book", "anime", "music"],
   university: {
     name: "Islamic Azad University",
-    branch: "Science And Research Branch"
+    branch: "Science And Research Branch",
     major: "Computer Science"
   }
 }

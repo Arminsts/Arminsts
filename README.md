@@ -15,17 +15,15 @@
 ```javascript
 
  const person = {
-  // personal info
   name: "Armin Arabi",
   birthDay: "2002 January 17",
   city: "Tehran",
-  hobbies: ["book", "anime", "programming", "music"],
-  // university
+  hobbies: ["book", "anime", "music"],
   university: {
     name: "Islamic Azad University",
     branch: "Science And Research Branch"
-  },
-  major: "Computer Science",
+    major: "Computer Science"
+  }
 }
 
 ```
